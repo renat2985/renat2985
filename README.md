@@ -6,6 +6,7 @@ Whois:
     🔨 most of my open-source is in JavaScript, PHP and ESP32, ESP8266
     🌱 open technologies make our world better
     🅰️ website: www.myworld.lv
+    🅰️ website: www.onclick.lv
 
 Open-source projects I made:
 
