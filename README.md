@@ -3,7 +3,7 @@
 Whois:
 
     💰 full-stack developer @ evonicfires
-    🔨 most of my open-source is in JavaScript, PHP and ESP32, ESP8266
+    🔨 most of my open-source is in JavaScript, PHP, ESP32 and ESP8266
     🌱 open technologies make our world better
     🅰️ website: www.myworld.lv
     🅰️ website: www.onclick.lv
