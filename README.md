@@ -3,7 +3,7 @@ My name is Renat, and I am a software developer with over 20 years of experience
 
 In my professional work, I strive to deliver high-quality and efficient solutions that meet the needs of clients and users. My experience enables me to develop both frontend and backend parts of applications, ensuring their reliability and performance.
 
-I am always open to new opportunities and ready to apply my skills and knowledge to interesting and challenging projects. If you have any proposals or questions, please feel free to contact me.
+I am always open to new opportunities and ready to apply my skills and knowledge to interesting and challenging projects. If you have any proposals or questions, please feel free to contact me [Telegram](https://t.me/renat2985). I speak Russian, English, and Latvian.
 
 ### Favorite projects I've done:
 
